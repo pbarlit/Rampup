@@ -1,0 +1,10 @@
+class ParentClass
+def Baked Goods
+puts "Baked Goods"
+end
+end
+class ChildClass < Baked Goods
+def cookies
+puts "cookies"
+end
+end
