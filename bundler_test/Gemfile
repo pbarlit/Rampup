@@ -1,2 +1,0 @@
-source 'https://rubygems.org'
-gems 'rails', '~>4.0.3'
